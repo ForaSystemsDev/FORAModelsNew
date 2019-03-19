@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1970282603
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d366c98ffccf177a0518d3a77874caa9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 813466e6bd79712f10f61108eadcec0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Meshes/ImageTarget_Page_48_0.fbx
+Dependencies: []
